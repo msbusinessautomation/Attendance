@@ -1,0 +1,6 @@
+{
+  "name": "KIQS Smart Attendance",
+  "description": "Offline-first smart attendance system for Kanz Ul Iman School of Quran Sciences, Branch 86 (Hazrat Abu Bakar Siddiqui Campus). Features student QR badges, instant offline camera scanning, daily/monthly registers, manual entry, and Windows software data sync.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
